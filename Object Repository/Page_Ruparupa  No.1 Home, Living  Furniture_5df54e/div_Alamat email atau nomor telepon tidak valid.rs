@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alamat email atau nomor telepon tidak valid</name>
+   <tag></tag>
+   <elementGuidId>8cdd9dab-2b06-4566-9ae6-69915490d49f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.primary-negative</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/form/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4cbd0b97-4731-46dc-a6e1-0f3453ec5666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primary-negative</value>
+      <webElementGuid>e069dc64-9e89-4b23-aa8d-9feeeef2b612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alamat email atau nomor telepon tidak valid</value>
+      <webElementGuid>e83d57fc-03f8-4e4d-b5b5-89b3cee58f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/form[1]/div[1]/div[@class=&quot;primary-negative&quot;]</value>
+      <webElementGuid>c055e8bf-7740-498f-8b3d-4583a8efa15b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/form/div/div[3]</value>
+      <webElementGuid>94aed690-fd73-4925-8c34-5782a6a8ffd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[6]</value>
+      <webElementGuid>008ca203-5110-48ec-aa83-e337f3bd16ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[6]</value>
+      <webElementGuid>66ca12ad-268e-418f-a790-cfe951e64bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi?'])[1]/preceding::div[1]</value>
+      <webElementGuid>1b22a6be-df85-4814-9424-aa0f35865ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::div[1]</value>
+      <webElementGuid>3f423a9e-06d6-48e0-a344-7b04a94397c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alamat email atau nomor telepon tidak valid']/parent::*</value>
+      <webElementGuid>187a446f-5a6a-454e-b784-b175f25b7608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[3]</value>
+      <webElementGuid>35dfe2d4-6204-44e3-9b8d-ad8da03a71bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Alamat email atau nomor telepon tidak valid' or . = 'Alamat email atau nomor telepon tidak valid')]</value>
+      <webElementGuid>7128f3ca-4ddb-48ce-b374-ea0a2bd6ff20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

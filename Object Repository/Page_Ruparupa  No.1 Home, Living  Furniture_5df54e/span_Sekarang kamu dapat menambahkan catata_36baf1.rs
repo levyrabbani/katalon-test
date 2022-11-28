@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sekarang kamu dapat menambahkan catata_36baf1</name>
+   <tag></tag>
+   <elementGuidId>337c9463-b09d-4c8b-bbe7-ec3f609c9745</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.joyride-tooltip__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-joyride-step-0']/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3e7fa01a-d6bf-42f9-b6ae-6d2be6b11bab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>joyride-tooltip__content</value>
+      <webElementGuid>cb0792f6-0636-40e5-acf7-7966ce5d0f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sekarang kamu dapat menambahkan catatan untuk produk pesananmu</value>
+      <webElementGuid>d4ad844d-5338-47a4-81d9-36abebc0f846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-joyride-step-0&quot;)/div[@class=&quot;__floater __floater__open&quot;]/div[@class=&quot;__floater__body&quot;]/div[@class=&quot;joyride-tooltip joyride-arrow--undefined&quot;]/span[@class=&quot;joyride-tooltip__content&quot;]</value>
+      <webElementGuid>9a3849c7-204f-4a5f-a3f5-13223029d37c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-joyride-step-0']/div/div/div/span</value>
+      <webElementGuid>76f690b2-3339-4401-b53e-d89f9e3756a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ruparupa Care'])[1]/following::span[1]</value>
+      <webElementGuid>7da4d119-4ead-4808-af09-c7a204596162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali ke Home'])[1]/following::span[2]</value>
+      <webElementGuid>9822b98c-7a77-402d-a705-d530bbfb019b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[1]</value>
+      <webElementGuid>ad304f61-2601-4abe-b516-8f38c63cbc95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sekarang kamu dapat menambahkan catatan untuk produk pesananmu']/parent::*</value>
+      <webElementGuid>73af6a00-d6e3-4d5b-ab7a-5210a504d9ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/span</value>
+      <webElementGuid>5e6d6836-8937-4e9c-86e8-cdc8a0c9e76e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sekarang kamu dapat menambahkan catatan untuk produk pesananmu' or . = 'Sekarang kamu dapat menambahkan catatan untuk produk pesananmu')]</value>
+      <webElementGuid>a611bbff-77e8-425c-a274-5b633ac9065f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
